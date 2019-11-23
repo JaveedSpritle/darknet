@@ -1,5 +1,0 @@
-classes= 1 
-train  = cfg/lp-train.txt  
-valid  = cfg/lp-test.txt  
-names = cfg/lp.names  
-backup = backup/
